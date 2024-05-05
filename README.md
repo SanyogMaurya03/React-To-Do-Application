@@ -33,3 +33,20 @@ npm install
 ```bash
 npm start
 
+The application should open automatically in your default web browser.
+
+## Usage
+
+
+1. To add a new task, type the task in the input field and press Enter or click the "Add Task" button.
+2. To delete a task, click the "Delete" button next to the task.
+3. To mark a task as complete or incomplete, click on the task.
+4. To mark all tasks as complete or incomplete, click the "Mark All Complete" or "Mark All Incomplete" button.
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+This README file provides instructions on how to set up and run the application, as well as an overview of its features and usage. Adjustments can be made based on specific requirements and preferences.
